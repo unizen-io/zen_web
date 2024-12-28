@@ -108,7 +108,7 @@ export default {
   head () {
     return createSEOTags({
       title: 'Unizen: Smart Exchange Ecosystem - Wen Zen',
-      decsription: 'Listing competition rules and unique social sentiment indexes',
+      description: 'Listing competition rules and unique social sentiment indexes',
       slug: PAGES.wenzen.url
     })
   }
